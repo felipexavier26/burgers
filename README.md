@@ -7,7 +7,7 @@ Uma página web simples de um restaurante de hambúrgueres, criada com HTML e CS
 - CSS3
 
 ## Demonstração
-Veja a página em ação [aqui]([link-da-sua-demo](https://burgers-beta.vercel.app/)).
+Veja a página em ação [aqui](https://burgers-beta.vercel.app/).
 
 ## Instruções de Uso
 Para executar este projeto localmente, basta clonar este repositório e abrir o arquivo index.html em seu navegador.
