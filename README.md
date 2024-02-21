@@ -1,6 +1,7 @@
 # Página de Burger
 
-![Uploading image.png…]()
+![fto](https://github.com/felipexavier26/burgers/assets/103685054/4cd2d347-fe9b-4824-92ca-b2ca88568448)
+
 
 
 Uma página web simples de um restaurante de hambúrgueres, criada com HTML e CSS.
